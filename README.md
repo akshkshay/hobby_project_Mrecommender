@@ -23,7 +23,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Install all the libraries mentioned in the [requirements.txt](https://github.com/akshkshay/movierecomendation/blob/main/requirements.txt) file.
+1. Install all the libraries mentioned in the [requirements.txt](https://github.com/akshkshay/hobby_project_Mrecommender/blob/main/requirements.txt) file.
 2. Clone this repository in your local system.
 3. Replace YOUR_API_KEY in the `static/recommend.js` file.
 4. Open the command prompt from your project directory and run the command `python main.py`.
