@@ -11,7 +11,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Link to the application
 
-Check out the live demo: Will add here once deployed.
+Check out the live demo: https://recommendmemovies.herokuapp.com/
 
 ## Note
 
